@@ -12,3 +12,7 @@ body {
 .section-follow .fa-4x{
     margin: 5px 10px;
 }
+
+input::placeholder, textarea::placeholder {
+  color: black
+}
